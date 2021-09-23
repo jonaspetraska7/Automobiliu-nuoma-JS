@@ -1,0 +1,35 @@
+.meniu {
+    background-color: blue;
+    display: flex;
+    height: 100px;
+}
+.pirmaDalis {
+    background-color: red;
+    flex: 3;
+    display: flex;
+}
+.pirmaDalis h1{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 25px;
+    height: 50px;
+}
+.antraDalis{
+    background-color: green;
+}
+.meniuFoto{
+    height: 100px;
+    width: 150px;
+}
+.treciaDalis{
+    flex: 3;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+}
+.nuoroda{
+    margin: auto;
+}
