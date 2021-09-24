@@ -5,7 +5,7 @@
 }
 body {
     margin-top: 100px;
-    background-image: url('img/stylish-hexagonal-line-pattern-background_1017-19742.jpg');
+    background-image: url('../../img/stylish-hexagonal-line-pattern-background_1017-19742.jpg');
 }
 a {
   text-decoration: none;
@@ -95,4 +95,34 @@ a:hover {
     background-color: black;
     color: white;
     padding: 20px;
+}
+.auto img {
+    width: 200px;
+}
+.auto p{
+    margin-top: 10px;
+    width: 200px;
+}
+.auto {
+    width: 300px;
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    margin: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.katalogas{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    width: 900px;
+    margin: auto;
 }
