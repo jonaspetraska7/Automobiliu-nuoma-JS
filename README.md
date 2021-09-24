@@ -20,7 +20,7 @@ expo start
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/master/screenshots/ss1.png" width="30%"></img> <img src="https://raw.githubusercontent.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/master/screenshots/ss2.png" width="30%"></img> <img src="https://raw.githubusercontent.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/master/screenshots/ss3.png" width="30%"></img> 
+<img src="https://raw.githubusercontent.com/jonaspetraska7/Automobiliu-nuoma-JS/main/img/model3.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/master/screenshots/ss2.png" width="30%"></img> <img src="https://raw.githubusercontent.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/master/screenshots/ss3.png" width="30%"></img> 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
